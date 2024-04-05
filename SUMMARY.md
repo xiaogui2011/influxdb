@@ -5,4 +5,4 @@
 * [使用场景](shi-yong-chang-jing.md)
 * [安装/初始化](an-zhuang-chu-shi-hua.md)
 * [webUI](webui.md)
-* [Page 1](page-1.md)
+* [行协议](hang-xie-yi.md)
