@@ -6,3 +6,4 @@
 * [安装/初始化](an-zhuang-chu-shi-hua.md)
 * [webUI](webui.md)
 * [行协议](hang-xie-yi.md)
+* [telegraf](telegraf.md)
