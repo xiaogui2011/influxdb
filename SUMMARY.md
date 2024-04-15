@@ -8,3 +8,4 @@
 * [行协议](hang-xie-yi.md)
 * [telegraf](telegraf.md)
 * [scraper数据流向](scraper-shu-ju-liu-xiang.md)
+* [删除单条数据](shan-chu-dan-tiao-shu-ju.md)
